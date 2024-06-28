@@ -1,0 +1,4 @@
+<?php
+$blockId= $get['blockId'];
+
+?>
